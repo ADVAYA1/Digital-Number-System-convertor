@@ -23,6 +23,10 @@ The **Digital Number System Conversion Project** is a Java-based application tha
 4. **`Main.html`**  
    The HTML file provides a user interface for interacting with the Java application. It may include forms where users can input either decimal numbers for conversion or Boolean expressions for processing, displaying the results directly in a web browser.
 
+## UI
+![image](https://github.com/user-attachments/assets/4a5ac815-0d0c-4204-b3a6-e39b52f0579d)
+
+
 ## Features
 
 - **Decimal Conversion**: Converts decimal numbers into binary, octal, and hexadecimal formats.
@@ -85,5 +89,3 @@ To compile and run the program:
 
 This project is a powerful tool for understanding and working with digital number systems and Boolean logic. It helps users to visualize number conversions and simplifies Boolean expressions for use in digital circuits. The program is ideal for students and anyone interested in learning about digital logic design, truth tables, and number system conversions.
 ```
-
-This version addresses the formatting and provides a clearer explanation of the concepts in the context of your project. Let me know if this meets your expectations!
